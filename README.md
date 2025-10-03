@@ -1,3 +1,5 @@
+nom : Robin prénom : Christol groupe : TPD
+
 Q1.0 : 
 Il peut y avoir jusqu'à 1012 octets de session 
 Q1.1 : 
